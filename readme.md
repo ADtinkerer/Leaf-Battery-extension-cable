@@ -1,4 +1,4 @@
-Leaf Battery Extension Cable (for testing)
+#Leaf Battery Extension Cable (for testing)
 
 Leaf main HV vehicle-side cable:
 - 297A6-3NA2E
