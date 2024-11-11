@@ -12,7 +12,7 @@ HV Heater battery side:
 - 295G0-3NF0B
 
 HV Heater vehicle side:
-- will need to source a failed PTC heater
+- will need to source a failed PTC heater (27143-3NF1B)
 - or install block-off
 
 Data cable (22 or 36 pin)
