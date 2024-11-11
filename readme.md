@@ -1,10 +1,10 @@
 #Leaf Battery Extension Cable (for testing)
 
 Leaf main HV vehicle-side cable:
-- 297A6-3NA2E (ZEO)
+- 297A6-3NA1E (ZE0) [Connectors on inverter side. Cable appears to have same style of connector on both ends ... 2-for-1]
 or
-- 297A6-3NA1E (ZE0)
-      [connectors on inverter side. One style of cable appears to have the same connectors on both ends ... 2-for-1]
+- 297A6-3NA2E (ZE0)
+      [Connectors on inverter side. Different connectors on each side]
 or 
 - 297A6-5SH1A (ZE1) [ring terminals on inverter side]
 
